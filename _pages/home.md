@@ -1,18 +1,39 @@
 ---
-title: "Welcome"
-layout: splash
+title: "Sabira El Khalfaoui"
+layout: single
 permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/header.jpg
-  actions:
-    - label: "View My Work"
-      url: "/cryptography/"
-    - label: "Contact Me"
-      url: "/contact/"
-excerpt: "I'm Sabira El Khalfaoui, a cryptographer and researcher. This is my academic and developer portfolio."
-intro:
-  - excerpt: "Explore my work in cryptography, error-correcting codes, and open-source development."
+author_profile: true
 ---
+
+## 👋 Welcome
+
+I'm **Sabira El Khalfaoui**, a cryptographer and researcher specializing in:
+
+- 🔐 Zero-Knowledge Proofs (ZKPs)  
+- 🧮 Error-Correcting Codes (ECC)  
+- 🔒 Post-Quantum Cryptography  
+
+This site is my academic and developer portfolio. I share selected research, implementations, and projects in cryptography.
+
+---
+
+## 📁 Sections
+
+- [🧠 Cryptography](/cryptography/)  
+  Projects, blog posts, and code samples in modern cryptography, especially ZK and post-quantum schemes.
+
+- [📘 Error-Correcting Codes](/ecc/)  
+  Work on ECC theory, decoding techniques, and connections to cryptographic primitives.
+
+- [📄 About Me](/about/)  
+  Academic background, publications, CV, and teaching.
+
+- [📬 Contact](/contact/)  
+  How to get in touch.
+
+---
+
+## 🛠️ Latest Updates
+
+Stay tuned — I’m currently updating this site with new ZK Rust libraries and crypto demos.
 
