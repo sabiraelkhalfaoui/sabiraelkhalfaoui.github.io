@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Cryptography"
     url: /cryptography/
-  - title: "Error-Correcting Codes"
+  - title: "Error Correcting Codes"
     url: /ecc/
-  - title: "About"
-    url: /about/
+  - title: "Contact"
+    url: /contact/
