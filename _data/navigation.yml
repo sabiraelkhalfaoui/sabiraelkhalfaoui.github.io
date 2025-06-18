@@ -5,6 +5,8 @@ main:
     url: /cryptography/
   - title: "Error-Correcting Codes"
     url: /ecc/
+  - title: "Teaching"
+    url: /teaching/
   - title: "About"
     url: /about/
   - title: "Contact"
