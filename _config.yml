@@ -76,3 +76,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+#Includes
+include:
+  - _pages
+  - assets/js
