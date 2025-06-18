@@ -1,43 +1,18 @@
 ---
-title: "Sabira El Khalfaoui"
-layout: single
+title: "Welcome"
+layout: splash
 permalink: /
-author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/header.jpg
+  actions:
+    - label: "View My Work"
+      url: "/cryptography/"
+    - label: "Contact Me"
+      url: "/contact/"
+excerpt: "I'm Sabira El Khalfaoui, a cryptographer and researcher. This is my academic and developer portfolio."
+intro:
+  - excerpt: "Explore my work in cryptography, error-correcting codes, and open-source development."
 ---
 
-<div style="text-align: center; margin-top: 2rem;">
-
-<img src="/assets/images/avatar.png" alt="Avatar" style="border-radius: 50%; width: 150px;">
-
-<h1 style="margin-top: 1rem;">Hi, I'm <strong>Sabira El Khalfaoui</strong></h1>
-
-<p style="font-size: 1.2rem; color: #777;">
-  <span id="typewriter"></span>
-</p>
-
-<div style="margin-top: 2rem;">
-  <a href="/cryptography/" class="btn btn--primary">🧠 My Work</a>
-  <a href="/contact/" class="btn btn--inverse">📬 Contact</a>
-</div>
-
-</div>
-
----
-
-## 🔬 About Me
-
-I'm a **cryptographer** and **researcher** specializing in:
-
-- Zero-Knowledge Proofs  
-- Error-Correcting Codes  
-- Post-Quantum Cryptography  
-- Secure system development in **Rust**, **C**, and **Python**
-
----
-
-## 🧭 Explore
-
-- [Cryptography](/cryptography/)
-- [Error-Correcting Codes](/ecc/)
-- [Teaching](/teaching/)
-- [About Me](/about/)
