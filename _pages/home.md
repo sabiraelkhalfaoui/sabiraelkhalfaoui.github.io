@@ -5,33 +5,39 @@ permalink: /
 author_profile: true
 ---
 
-## 👋 Welcome
+<div style="text-align: center; margin-top: 2rem;">
 
-I'm **Sabira El Khalfaoui**, a cryptographer and researcher focusing on:
+<img src="/assets/images/avatar.png" alt="Avatar" style="border-radius: 50%; width: 150px;">
 
-- 🔐 Zero-Knowledge Proofs (ZKPs)  
-- 🧮 Error-Correcting Codes (ECC)  
-- 🔒 Post-Quantum Cryptography  
+<h1 style="margin-top: 1rem;">Hi, I'm <strong>Sabira El Khalfaoui</strong></h1>
 
-This website is my academic and developer portfolio, showcasing selected research, teaching, and open-source contributions.
+<p style="font-size: 1.2rem; color: #777;">
+  <span id="typewriter"></span>
+</p>
+
+<div style="margin-top: 2rem;">
+  <a href="/cryptography/" class="btn btn--primary">🧠 My Work</a>
+  <a href="/contact/" class="btn btn--inverse">📬 Contact</a>
+</div>
+
+</div>
 
 ---
 
-<div style="text-align: center; margin: 2em 0;">
-  <a href="/cryptography/" class="btn btn--primary">🔍 View My Work</a>
-  <a href="/contact/" class="btn btn--inverse">📬 Contact Me</a>
-</div>
+## 🔬 About Me
+
+I'm a **cryptographer** and **researcher** specializing in:
+
+- Zero-Knowledge Proofs  
+- Error-Correcting Codes  
+- Post-Quantum Cryptography  
+- Secure system development in **Rust**, **C**, and **Python**
 
 ---
 
 ## 🧭 Explore
 
-- [🧠 Cryptography](/cryptography/) – Projects, notes, and implementations  
-- [📘 Error-Correcting Codes](/ecc/) – Theory, decoding, and applications  
-- [📄 About Me](/about/) – Bio, CV, and academic profile  
-
----
-
-## 🛠️ Latest Updates
-
-I'm currently working on Rust-based ZK demos and post-quantum crypto libraries. Stay tuned!
+- [Cryptography](/cryptography/)
+- [Error-Correcting Codes](/ecc/)
+- [Teaching](/teaching/)
+- [About Me](/about/)
