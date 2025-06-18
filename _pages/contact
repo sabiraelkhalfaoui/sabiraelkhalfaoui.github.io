@@ -1,1 +1,34 @@
-This is my contact page
+---
+title: "Contact"
+permalink: /contact/
+layout: single
+author_profile: true
+---
+
+## 📬 Contact Me
+
+I'm always open to collaboration, questions, or just connecting with fellow cryptographers and developers.
+
+Feel free to reach out via any of the following:
+
+- 📧 **Email**: [sabira@example.com](mailto:sabira@example.com)
+- 🐙 **GitHub**: [github.com/sabiraelkhalfaoui](https://github.com/sabiraelkhalfaoui)
+- 💼 **LinkedIn**: [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)
+
+---
+
+## 🤝 Let’s Collaborate
+
+If you're working on:
+
+- Zero-Knowledge Proofs
+- Post-Quantum Cryptography
+- Open-source security libraries in Rust or C
+
+I'm happy to chat or join efforts.
+
+---
+
+## 📅 Availability
+
+I'm based in **Paris, France**, and typically respond within 1–2 business days.
