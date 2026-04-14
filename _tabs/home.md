@@ -2,6 +2,7 @@
 title: Home
 icon: fas fa-home
 order: 1
+permalink: /
 ---
 
 # Sabira El Khalfaoui
