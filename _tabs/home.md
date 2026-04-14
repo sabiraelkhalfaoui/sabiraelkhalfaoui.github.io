@@ -25,5 +25,3 @@ I work on advanced cryptographic systems, combining theory and practical impleme
 
 ---
 
-👉 [View Research](/tabs/research/)  
-👉 [Read Blog](/categories/blog/)
